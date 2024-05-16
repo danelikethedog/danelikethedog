@@ -3,7 +3,7 @@
 Hey there! I'm Dane Walton, a software developer passionate about C, Rust, and JavaScript (React) programming. 
 
 ## Contact
-- Feel free to reach out to me via [email](mailto:github@danewalton.com) or [LinkedIn](https://www.linkedin.com/in/dane-walton/)).
+- Feel free to reach out to me via [email](mailto:github@danewalton.com) or [LinkedIn](https://www.linkedin.com/in/dane-walton/).
 
 
 <!--
