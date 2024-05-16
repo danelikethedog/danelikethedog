@@ -1,4 +1,10 @@
-### Hi there 👋
+# Welcome to Dane Walton's GitHub Profile 👋
+
+Hey there! I'm Dane Walton, a software developer passionate about C, Rust, and JavaScript (React) programming. 
+
+## Contact
+- Feel free to reach out to me via [email](mailto:github@danewalton.com) or [LinkedIn](https://www.linkedin.com/in/dane-walton/)).
+
 
 <!--
 **danelikethedog/danelikethedog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
