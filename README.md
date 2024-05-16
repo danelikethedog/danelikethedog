@@ -1,9 +1,13 @@
-# Welcome to Dane Walton's GitHub Profile 👋
+# Hi I'm Dane Walton 👋
 
-Hey there! I'm Dane Walton, a software developer passionate about C, Rust, and JavaScript (React) programming. 
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=rust,c,js)](https://skillicons.dev)
 
 ## Contact
+
 - Feel free to reach out to me via [email](mailto:github@danewalton.com) or [LinkedIn](https://www.linkedin.com/in/dane-walton/).
+- Also feel free to check out my webiste [here](https://danewalton.com)
 
 
 <!--
